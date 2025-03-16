@@ -22,7 +22,7 @@ CSS3 - For styling and animations
 📦 Installation & Usage:
 
 1️⃣ Clone the repository:
-git clone https://github.com/vaishnavi-0311/coffee-landing-page.git
+git clone https://github.com/Sathwik018/coffee-landing-page.git
 
 2️⃣ Navigate to the project folder:
 cd coffee-landing-page
@@ -31,5 +31,5 @@ cd coffee-landing-page
 
 📬 Contact
 If you have any questions or feedback, feel free to connect:
-📧 Email: [vaishhhhbca03@gmail.com]
-🔗 GitHub: [vaishnavi-0311]
+📧 Email: [sathwik7142@gmail.com]
+🔗 GitHub: [Sathwik018]
